@@ -1,0 +1,9 @@
+{
+  "version": "0.6.0",
+  "build": 6,
+  "notes": "Erste installierbare LumaTV-Testversion mit automatischen Updates.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.0/LumaTV-FireTV.apk",
+  "androidSha256": "8195dcf8f1c5fb981d1531f4b25061a841b198bd26d9db3eaf9794904727f0f0",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.0/LumaTV-macOS.zip",
+  "macSha256": "ad60ca243ba1902a14ab6b47542e7056bbf39e61d579f4e2ee1b165e6f3754a2"
+}

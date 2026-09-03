@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>LumaTV Updates</title>
+    <description>Stabile LumaTV-Versionen</description>
+    <language>de</language>
+    <item>
+      <title>LumaTV 0.6.0</title>
+      <description><![CDATA[Erste installierbare LumaTV-Testversion mit automatischen Updates.]]></description>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.0/LumaTV-macOS.zip"
+        sparkle:edSignature="EPTV/nixJQxfekxJXoH5LN5bwGgCLeoseHF51Qk1LvhKSL9lv7zxpL2s7GmxAsSKszN0HKHLUu9AyS9nere4Bg=="
+        sparkle:os="macos"
+        length="37643897"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
