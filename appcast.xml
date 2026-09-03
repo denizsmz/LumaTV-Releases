@@ -5,14 +5,14 @@
     <description>Stabile LumaTV-Versionen</description>
     <language>de</language>
     <item>
-      <title>LumaTV 0.6.1</title>
-      <description><![CDATA[Korrigierter Mac-App-Name und stabiler Update-Kanal.]]></description>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.1/LumaTV-macOS.zip"
-        sparkle:edSignature="XRQb+jgpEpcnn3CkKzPkfu8HAt471yz6cnoSIL9em+qR7/Grrm110UmOVnYAJWe4sDz0KP7DBGCaGyOA8XQPAw=="
+      <title>LumaTV 0.6.2</title>
+      <description><![CDATA[Behebt den schwarzen Bildschirm beim Start auf macOS und ergänzt die benötigten Netzwerk- und Dateiberechtigungen.]]></description>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.2/LumaTV-macOS.zip"
+        sparkle:edSignature="5LNJoQ8/JGMblxPmUjZ+L6n9DcJUyugU3Kfhu6n3IXZpP73lQ+MQY5Xp/kB8WTBBiXi5DJgICAVD9yApjIHuCQ=="
         sparkle:os="macos"
-        length="37641798"
+        length="37641303"
         type="application/octet-stream" />
     </item>
   </channel>

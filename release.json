@@ -1,9 +1,9 @@
 {
-  "version": "0.6.1",
-  "build": 7,
-  "notes": "Korrigierter Mac-App-Name und stabiler Update-Kanal.",
-  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.1/LumaTV-FireTV.apk",
-  "androidSha256": "5ed7cc8875509d4dc7fe836b7facba15e8429a08fbc9e67498c3aa367904f884",
-  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.1/LumaTV-macOS.zip",
-  "macSha256": "0748560512e2957f940a068d4ab25adcae3196d2fe02f14c48b7464bae220f88"
+  "version": "0.6.2",
+  "build": 8,
+  "notes": "Behebt den schwarzen Bildschirm beim Start auf macOS und ergänzt die benötigten Netzwerk- und Dateiberechtigungen.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.2/LumaTV-FireTV.apk",
+  "androidSha256": "f6fc4d38cb3b200ab7b0fe1bc42901a6dd92c49219d92140b0e5f3f9ce543a87",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.2/LumaTV-macOS.zip",
+  "macSha256": "7701b249d3c23c4299514f8ec9c6f817a43bd17166bfd2658d2800835eb6a827"
 }
