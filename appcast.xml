@@ -5,14 +5,14 @@
     <description>Stabile LumaTV-Versionen</description>
     <language>de</language>
     <item>
-      <title>LumaTV 0.6.2</title>
-      <description><![CDATA[Behebt den schwarzen Bildschirm beim Start auf macOS und ergänzt die benötigten Netzwerk- und Dateiberechtigungen.]]></description>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
-      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.6.2/LumaTV-macOS.zip"
-        sparkle:edSignature="5LNJoQ8/JGMblxPmUjZ+L6n9DcJUyugU3Kfhu6n3IXZpP73lQ+MQY5Xp/kB8WTBBiXi5DJgICAVD9yApjIHuCQ=="
+      <title>LumaTV 0.7.0</title>
+      <description><![CDATA[Gemeinsame neue Oberfläche für Mac und Fire TV: Kategorien-Navigation, weltweite Heimatland-Auswahl, globale Suche, detaillierter Aktualisierungsfortschritt, erweiterte Einstellungen, vollständiger Liquid-Glass-Player mit Senderwechsel, Wiedergabeliste, Tonspuren und Untertiteln sowie robusteres Laden großer Xtream-Film- und Serienbibliotheken.]]></description>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.0/LumaTV-macOS.zip"
+        sparkle:edSignature="Z4z2laA/1/KgoaheEZdiX3usQxTTNoOvzO3DA5z9gjDKwz1ImqejF5huabPbxPzaTKoWiWDI2iOuNwVlKlKOAw=="
         sparkle:os="macos"
-        length="37641303"
+        length="37756510"
         type="application/octet-stream" />
     </item>
   </channel>
