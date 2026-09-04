@@ -1,9 +1,9 @@
 {
-  "version": "0.7.1",
-  "build": 10,
-  "notes": "Deutlich flüssigere Navigation in großen IPTV-Katalogen, korrigierte Kategorie-Karten, schnellere Hintergrundverarbeitung und optimierte Bildspeicherung.",
-  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.1/LumaTV-FireTV.apk",
-  "androidSha256": "5348d2c9fcd318383219b3cd6d8872fb18ed6709473dc7c8a71b38715e5eeaf0",
-  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.1/LumaTV-macOS.zip",
-  "macSha256": "270781724366aa0aeca059efcef79e14e85e3e5c27b1bd65dec58224e5819d2a"
+  "version": "0.7.2",
+  "build": 11,
+  "notes": "Behebt den langsamen macOS-Start, verhindert anwachsende Katalogdateien und behält die flüssigere Navigation sowie korrigierte Kategorie-Karten bei.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.2/LumaTV-FireTV.apk",
+  "androidSha256": "125d554bbe1f6dd919f97d42b3b47f6fd2ba0796e869d217be5a731906363369",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.2/LumaTV-macOS.zip",
+  "macSha256": "61da6c80b3a69c27551fba548c2eb8a96ba3e777e3094971c59139fcb4889146"
 }

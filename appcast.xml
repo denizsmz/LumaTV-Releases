@@ -5,14 +5,14 @@
     <description>Stabile LumaTV-Versionen</description>
     <language>de</language>
     <item>
-      <title>LumaTV 0.7.1</title>
-      <description><![CDATA[Deutlich flüssigere Navigation in großen IPTV-Katalogen, korrigierte Kategorie-Karten, schnellere Hintergrundverarbeitung und optimierte Bildspeicherung.]]></description>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.1/LumaTV-macOS.zip"
-        sparkle:edSignature="aPUzbdFFNrfW3Xzn4KfJQYpdD9ragqAPWdl53WrftvTuORuD72EKjpl+VzLTZm8FarU3zgEJU41o89sMPPYaDA=="
+      <title>LumaTV 0.7.2</title>
+      <description><![CDATA[Behebt den langsamen macOS-Start, verhindert anwachsende Katalogdateien und behält die flüssigere Navigation sowie korrigierte Kategorie-Karten bei.]]></description>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.2/LumaTV-macOS.zip"
+        sparkle:edSignature="JICpAP/k4aCFv6a9Msj9hD/XhjSbrnTSHg7IeRdg337lGANE/YJqXTkMeNzVPilabwy2VvRwxF5T4G2FGvKMBQ=="
         sparkle:os="macos"
-        length="37763624"
+        length="37763325"
         type="application/octet-stream" />
     </item>
   </channel>
