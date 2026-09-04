@@ -1,9 +1,9 @@
 {
-  "version": "0.7.0",
-  "build": 9,
-  "notes": "Gemeinsame neue Oberfläche für Mac und Fire TV: Kategorien-Navigation, weltweite Heimatland-Auswahl, globale Suche, detaillierter Aktualisierungsfortschritt, erweiterte Einstellungen, vollständiger Liquid-Glass-Player mit Senderwechsel, Wiedergabeliste, Tonspuren und Untertiteln sowie robusteres Laden großer Xtream-Film- und Serienbibliotheken.",
-  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.0/LumaTV-FireTV.apk",
-  "androidSha256": "31037e98fee76f71ac569919c75db1e2d3d0c87dae42fb96e816d2e5e34fbdb2",
-  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.0/LumaTV-macOS.zip",
-  "macSha256": "19aa69f6634626a1c37db58c9d5a111e7ddd86e155d93dca3e1512eeec2fa432"
+  "version": "0.7.1",
+  "build": 10,
+  "notes": "Deutlich flüssigere Navigation in großen IPTV-Katalogen, korrigierte Kategorie-Karten, schnellere Hintergrundverarbeitung und optimierte Bildspeicherung.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.1/LumaTV-FireTV.apk",
+  "androidSha256": "5348d2c9fcd318383219b3cd6d8872fb18ed6709473dc7c8a71b38715e5eeaf0",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.1/LumaTV-macOS.zip",
+  "macSha256": "270781724366aa0aeca059efcef79e14e85e3e5c27b1bd65dec58224e5819d2a"
 }
