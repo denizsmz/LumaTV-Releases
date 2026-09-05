@@ -1,9 +1,9 @@
 {
-  "version": "0.7.4",
-  "build": 13,
-  "notes": "Fire-TV-Layout, D-Pad-Fokus, Player-Steuerung und 24-Stunden-Playlist-Cache verbessert.",
-  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.4/LumaTV-FireTV.apk",
-  "androidSha256": "2ddf1f09566a17184b49319bcfe8be8757641f4b74b0660279523bec312545a9",
-  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.4/LumaTV-macOS.zip",
-  "macSha256": "3c3c43808bf064b227637069227b5283ec5ffe385ec9f950a85968842d70616e"
+  "version": "0.7.5",
+  "build": 14,
+  "notes": "macOS-Updateinstallation in der App-Sandbox repariert.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.5/LumaTV-FireTV.apk",
+  "androidSha256": "cbdaf639667ba14cec92b4afb04ddb7ab25df0c42d43dcfbbb348a6e07c26636",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.5/LumaTV-macOS.zip",
+  "macSha256": "2a549866316d2044344491996e58be26d6d6376a5f2b0f750c668824a1c530d0"
 }
