@@ -1,9 +1,9 @@
 {
-  "version": "0.7.3",
-  "build": 12,
-  "notes": "TV-Login überarbeitet, macOS-Keychain-Abfragen entfernt und Start- sowie Kategorienansicht für Fernbedienungen optimiert.",
-  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.3/LumaTV-FireTV.apk",
-  "androidSha256": "777793507752a868adef1ac65f4a50b7d8f2ebde54b91e517826d7b824da0223",
-  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.3/LumaTV-macOS.zip",
-  "macSha256": "61f717d31c50fe1236d415b4f6113595f0020b92be0c9319a2f1900e2a4bc44c"
+  "version": "0.7.4",
+  "build": 13,
+  "notes": "Fire-TV-Layout, D-Pad-Fokus, Player-Steuerung und 24-Stunden-Playlist-Cache verbessert.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.4/LumaTV-FireTV.apk",
+  "androidSha256": "2ddf1f09566a17184b49319bcfe8be8757641f4b74b0660279523bec312545a9",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.4/LumaTV-macOS.zip",
+  "macSha256": "3c3c43808bf064b227637069227b5283ec5ffe385ec9f950a85968842d70616e"
 }
