@@ -1,9 +1,9 @@
 {
-  "version": "0.7.2",
-  "build": 11,
-  "notes": "Behebt den langsamen macOS-Start, verhindert anwachsende Katalogdateien und behält die flüssigere Navigation sowie korrigierte Kategorie-Karten bei.",
-  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.2/LumaTV-FireTV.apk",
-  "androidSha256": "125d554bbe1f6dd919f97d42b3b47f6fd2ba0796e869d217be5a731906363369",
-  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.2/LumaTV-macOS.zip",
-  "macSha256": "61da6c80b3a69c27551fba548c2eb8a96ba3e777e3094971c59139fcb4889146"
+  "version": "0.7.3",
+  "build": 12,
+  "notes": "TV-Login überarbeitet, macOS-Keychain-Abfragen entfernt und Start- sowie Kategorienansicht für Fernbedienungen optimiert.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.3/LumaTV-FireTV.apk",
+  "androidSha256": "777793507752a868adef1ac65f4a50b7d8f2ebde54b91e517826d7b824da0223",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.3/LumaTV-macOS.zip",
+  "macSha256": "61f717d31c50fe1236d415b4f6113595f0020b92be0c9319a2f1900e2a4bc44c"
 }
