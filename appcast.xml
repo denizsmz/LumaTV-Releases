@@ -5,14 +5,14 @@
     <description>Stabile LumaTV-Versionen</description>
     <language>de</language>
     <item>
-      <title>LumaTV 0.7.5</title>
-      <description><![CDATA[macOS-Updateinstallation in der App-Sandbox repariert.]]></description>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
-      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.5/LumaTV-macOS.zip"
-        sparkle:edSignature="VtVMuMkNACK8XoOsK02fO8oMWlobWr50GMVI/Wd2lZ/LLeWbih9BXKBqi9LBVsj4K//iESywHZNw1cf0TeXwDQ=="
+      <title>LumaTV 0.7.6</title>
+      <description><![CDATA[Fire-TV-Performance, flüssigere große Mediatheken, klarere TV-Navigation und stabilerer Player.]]></description>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
+      <enclosure url="https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.6/LumaTV-macOS.zip"
+        sparkle:edSignature="qPGgX1P44MdePHPu35NerKMxfes/gLO5Lcd4efKpetWduopXcxQK0w4AnMrtP+/xfruxRfR62XmvfMPJTc2MDA=="
         sparkle:os="macos"
-        length="37659803"
+        length="37671716"
         type="application/octet-stream" />
     </item>
   </channel>
