@@ -1,9 +1,9 @@
 {
-  "version": "0.7.6",
-  "build": 15,
-  "notes": "Fire-TV-Performance, flüssigere große Mediatheken, klarere TV-Navigation und stabilerer Player.",
-  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.6/LumaTV-FireTV.apk",
-  "androidSha256": "0cc91026e347fe4c9ce6bd82c587455f02807ef26a19e07d493e23946d55aa83",
-  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.6/LumaTV-macOS.zip",
-  "macSha256": "3b2580a740d9692f97abb8dee44f78f57a0afaa4c47a59d5beee79e62f5afa1c"
+  "version": "0.7.7",
+  "build": 16,
+  "notes": "Neue IPTV-Oberfläche mit kompakter Navigation, permanenter Kategorienleiste, dichter Medienansicht und neuem TV-Player.",
+  "androidUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.7/LumaTV-FireTV.apk",
+  "androidSha256": "6349f813cec833ddfa16858296b066be54c224a1517bd0cd5e631bc3bfb72890",
+  "macUrl": "https://github.com/denizsmz/LumaTV-Releases/releases/download/v0.7.7/LumaTV-macOS.zip",
+  "macSha256": "68514e988550c10f428f13f5a7da54ff76838a25f3cd3f758df7e2b989a1b41a"
 }
